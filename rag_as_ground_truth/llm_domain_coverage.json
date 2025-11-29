@@ -1,0 +1,215 @@
+[
+  {
+    "course_code": "N279P",
+    "course_name": "Capstone Preceptorship",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N310",
+    "course_name": "Communication in Health Care Settings",
+    "llm_validated_domains": [
+      {
+        "domain": "Domain 6: Interprofessional Partnerships",
+        "covered": true,
+        "confidence": 0.85,
+        "justification": "The syllabus includes multiple objectives and activities related to interprofessional communication, team interactions, and conflict resolution (e.g., 'Identify ways of facilitating communication in peer and team interactions,' 'Apply the conflict resolution process,' 'Team Communication/Group Work,' and 'Conflict Resolution, Negotiation, and Collaboration'). These align with the retrieved indicator about initiating a conflict resolution process with team members. While the focus is primarily on communication, the explicit inclusion of team and group work, as well as conflict resolution, demonstrates coverage of interprofessional partnership competencies."
+      },
+      {
+        "domain": "Domain 9: Professionalism",
+        "covered": true,
+        "confidence": 0.85,
+        "justification": "The syllabus explicitly includes objectives such as 'Demonstrate ethical and human rights principles in patient care and professional situations,' which directly aligns with the AACN indicators for Domain 9: Professionalism. Additionally, the course covers topics like professional vs. social communication, conflict resolution, and cultural humility, all of which support the development of professional behaviors and ethical practice in nursing. Therefore, the domain is well covered."
+      }
+    ]
+  },
+  {
+    "course_code": "N354",
+    "course_name": "Spanish for Healthcare Professionals",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N325",
+    "course_name": "Adult Health Nursing I",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N277P",
+    "course_name": "Clinical Care Management Practicum",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N275",
+    "course_name": "Public Health Nursing",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N 344P",
+    "course_name": "MONDAY PS PERINATAL NURSING CARE PRACTIC",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N375P",
+    "course_name": "Public Health Practicum",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N356",
+    "course_name": "Mental Health Nursing Across the Lifespan",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N320",
+    "course_name": "Introduction to Patient-Centered Nursing Care",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N223",
+    "course_name": "Genetics in Healthcare",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N266",
+    "course_name": "Nursing Care of Children and Their Families",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N244",
+    "course_name": "Perinatal Nursing Care",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N325P",
+    "course_name": "Adult Health Nursing I (Practicum)",
+    "llm_validated_domains": [
+      {
+        "domain": "Domain 9: Professionalism",
+        "covered": true,
+        "confidence": 0.9,
+        "justification": "The syllabus explicitly states that students must 'demonstrate the professional standards of moral, ethical, and legal conduct in nursing practice,' which aligns closely with the AACN indicators regarding professional identity and core values. Additionally, requirements for self-directed learning, active participation, and ownership of learning further support the development of professionalism. The repeated emphasis on professional conduct throughout clinical settings and evaluations reinforces coverage of this domain."
+      }
+    ]
+  },
+  {
+    "course_code": "N264",
+    "course_name": "Nursing Research",
+    "llm_validated_domains": [
+      {
+        "domain": "Domain 4: Scholarship for the Nursing Discipline",
+        "covered": true,
+        "confidence": 0.95,
+        "justification": "The syllabus explicitly addresses the research process, evidence appraisal, theory, and the relationship between research and practice, which align closely with the retrieved AACN indicators. Course objectives and activities include understanding and explaining the research process, critiquing research, and applying evidence to practice, demonstrating strong coverage of the domain."
+      }
+    ]
+  },
+  {
+    "course_code": "N224",
+    "course_name": "Health Assessment Skills",
+    "llm_validated_domains": [
+      {
+        "domain": "Domain 9: Professionalism",
+        "covered": true,
+        "confidence": 0.85,
+        "justification": "The syllabus explicitly states that students are expected to 'demonstrate professional values of nursing and accountability behaviors consistent with the practice of professional nursing' and 'exhibit professional values and accountability.' These statements align closely with the retrieved indicator 'Demonstrate the core values of professional nursing identity.' Additionally, the course includes expectations for professional attitude, accountability for assignments and exams, and communication using correct medical terminology, all of which support the development of professionalism in nursing."
+      }
+    ]
+  },
+  {
+    "course_code": "N 366P",
+    "course_name": "Nursing Care of Children and their Families- Practicum",
+    "llm_validated_domains": [
+      {
+        "domain": "Domain 7: Systems -Based Practice",
+        "covered": false,
+        "confidence": 0.3,
+        "justification": "The syllabus focuses on individual client care, assessment, planning, and evaluation of nursing interventions, but does not explicitly address systems-based practice concepts such as using quality metrics, understanding healthcare systems, or improving care at the system level. The closest match is 'Evaluate the effectiveness of nursing interventions,' but there is no mention of using specific quality metrics or a systems perspective as required by the indicator."
+      }
+    ]
+  },
+  {
+    "course_code": "N127P",
+    "course_name": "CLINICAL NURSING SKILLS I",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N 377",
+    "course_name": "Leadership & Management in Nursing Care",
+    "llm_validated_domains": [
+      {
+        "domain": "Domain 10: Personal, Professional, and Leadership Development",
+        "covered": true,
+        "confidence": 0.95,
+        "justification": "The syllabus includes explicit requirements for students to attend a professional nursing organization meeting and submit a reflection, directly matching the retrieved indicators. Additionally, the course covers topics such as leadership, self-care, lifelong learning, communication, and professional growth, all of which are central to Domain 10. The presence of assignments like mentoring reflections, resume and interview practice, and leadership panel participation further support comprehensive coverage of personal, professional, and leadership development."
+      }
+    ]
+  },
+  {
+    "course_code": "N321",
+    "course_name": "Ethics of Health Care",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N277P",
+    "course_name": "Clinical Care Management Practicum",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N255C",
+    "course_name": "Adult Health Nursing IIa",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N255D",
+    "course_name": "Adult Health Nursing IIB",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N157P",
+    "course_name": "Clinical Nursing Skills II Practicum",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N250",
+    "course_name": "Interprofessional Collaborative Practice",
+    "llm_validated_domains": [
+      {
+        "domain": "Domain 6: Interprofessional Partnerships",
+        "covered": true,
+        "confidence": 0.95,
+        "justification": "The syllabus explicitly addresses interprofessional collaborative practice, emphasizing understanding roles and responsibilities of different healthcare professionals, effective communication, teamwork, and respect for professional differences. These align closely with the retrieved AACN indicators regarding describing roles and responsibilities of each healthcare professional. The course content, activities (e.g., TeamSTEPPS, HIPE Day), and learning outcomes all support comprehensive coverage of this domain."
+      }
+    ]
+  },
+  {
+    "course_code": "N273",
+    "course_name": "Quality and Safety for Nursing Practice",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N355P",
+    "course_name": "Adult Health II Practicum",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N274",
+    "course_name": "Complex Nursing Care",
+    "llm_validated_domains": []
+  },
+  {
+    "course_code": "N256P",
+    "course_name": "Problems in Mental Health Nursing Practicum",
+    "llm_validated_domains": [
+      {
+        "domain": "Domain 2: Person -Centered Care",
+        "covered": true,
+        "confidence": 0.98,
+        "justification": "The syllabus explicitly addresses key person-centered care competencies, including empathy, compassionate care, effective communication, holistic assessment, individualized care planning, and ongoing evaluation. These align closely with the retrieved AACN indicators, many of which are directly reflected in the course objectives and activities. The presence of both theoretical and practical components (e.g., care plans, simulations, assessments) further supports comprehensive coverage of this domain."
+      },
+      {
+        "domain": "Domain 5: Quality and Safety",
+        "covered": false,
+        "confidence": 0.3,
+        "justification": "While the syllabus emphasizes empathy, compassion, communication, evidence-based practice, and ethical/legal standards, it does not explicitly address core elements of the Quality and Safety domain such as quality improvement, patient safety, risk reduction, error prevention, or use of quality and safety data. The only retrieved indicator relates to empathy and compassion, which is insufficient to demonstrate comprehensive coverage of Domain 5."
+      }
+    ]
+  }
+]
